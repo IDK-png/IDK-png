@@ -14,7 +14,7 @@ defmodule IDK-png do
   def bio() do
     defstruct [
       name: "Maxim",
-      code: "C/C++, Dart, Python, Elixir",
+      code: "C/C++, C#, Dart, Python, Elixir",
       frameworks: "Flutter, PyQT, WPF",
       tools: "Docker, Git, MongoDB, SQLite",
       architechture: ["Microservices", "Design Patterns", "Clean Code"],
