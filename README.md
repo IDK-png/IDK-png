@@ -1,13 +1,13 @@
-<center><h1>Привет 👋</h1></center>
-<h3>Обо мне</h3>
-На данный момент являюсь студентом в מגשימים и развиваюсь в направлениях Backend, Network разработки и работы с базами данных для решения сложных задач и улучшения пользовательского опыта.
+<center><h1>Hi there👋</h1></center>
+<h3>About me</h3>
+Currently, I am a student at מגשימים, focusing on backend and network development, cybersecurity, and working with databases to solve complex problems and enhance the user experience.
 <br>
-<b>Проекты над которыми я работаю на данный момент:</b>
+<b>Main Projects:</b>
 <ul>
-  <il><h4>HiddenRoute:</h4> В рамках финального проекта курса разрабатываю Tor-подобную сеть на C++ с клиентом на Flutter (Dart). Проект создаётся с нуля, без использования сторонних библиотек, и включает реализацию протоколов TCP, TLS/SSL и SOCKS5 для обеспечения безопасной и анонимной передачи данных. </il>
-  <il><h4>AIP (Anonymous Internet Project):</h4> AIP является системой для анонимного и безопасного использования интернета. AIP скрывает местоположение и идентичность пользователей, передавая данные через несколько шифруемых узлов с динамической сменой маршрута, что усложняет отслеживание и расшифровку трафика.</il>
+  <il><h4>HiddenRoute:</h4> As part of the final project of the course, I am developing a Tor-like network in C++ with a client in Flutter (Dart). The project is created from scratch, and includes the implementation of TLS/SSL wrapper and SOCKS5 protocols to ensure secure and anonymous data transfer.</il>
+  <il><h4>MONOPTICAL(in development)</h4> Is a user-friendly intrusion and vulnerability detection system designed specifically for Kubernetes clusters. It continuously scans all running pods using an unique vulnerability detection approach that combines deep analysis with behavioral monitoring. When potential security threats are identified, MONOPTICAL immediately alerts administrators and closely tracks suspicious pod activities.</il>
 </ul>
-<h3>Подробнее о моих навыках</h3>
+<h3>Skills</h3>
 
 ```elixir
 defmodule IDK-png do
@@ -16,11 +16,11 @@ defmodule IDK-png do
       name: "Maxim",
       code: "C/C++, C#, Dart, Python, Elixir",
       frameworks: "Flutter, PyQT, WPF",
-      tools: "Docker, Git, MongoDB, SQLite",
+      tools: "Docker, Kubernetes, Git, MongoDB, SQLite",
       architechture: ["Microservices", "Design Patterns", "Clean Code"],
-      misc: ["Linux", "WinAPI", "Nmap", "Metasploit", "Wireshark", "OllyDbg"],
+      misc: ["Linux", "WinAPI", "Nmap", "Metasploit", "Burp Suite", "Wireshark", "OllyDbg"],
       languages: ["Russian", "Hebrew", "English"],
-      currentFocus: "Backend Development, Network Programming and DevOps",
+      currentFocus: "Backend Development, Network Programming, DevOps and SecOps",
       extra: "I don't like to post unfinished projects, because of this there are many private repositories.",
       contact: [
         [discord: "sewerslvt.enjoyer"]
